@@ -1,0 +1,40 @@
+TODO:
+Fix grid/drill origin
+Add logo and titles
+Add labels on silk screen:
+  PC0_8   
+  PC1_9   
+  PC2_10   
+  PC3_11   
+  PA0_14   
+  PA1_15   
+  PA2_16   
+  PA3_17   
+  PA4_20   
+  PA5_21   
+  PA6_22   
+  PA7_23   
+  PC4_24   
+  PC5_25   
+  PB0_26   
+  PB1_27   
+  PB10_29   
+  PB11_30   
+  PB12_33   
+  PB13_34   
+  PB14_35   
+  PB15_36   
+  PC6_37   
+  PC7_38   
+  PC8_39   
+  PC9_40   
+  PC10_51   
+  PC11_52   
+  PC12_53   
+  PB5_57   
+  PB6_58   
+  PB7_59   
+  PB8_61   
+  PB9_62   
+  PA8_41   
+  PA10_43   
