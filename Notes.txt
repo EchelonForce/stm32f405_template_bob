@@ -1,0 +1,7 @@
+Issues on v1
+- R12 and R15 silkscreen swapped.
+- No pin1 indicator for stm32
+- A bunch of BOM/value fixes in progress.
+- Some header pins too small diameter for common headers.
+
+
